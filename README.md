@@ -11,6 +11,8 @@ http://share.framerjs.com/emhazprq8vyr/
 iPhone6 Plus 
 http://share.framerjs.com/6mya7k3rqr7w/
 
+![Folder Screenshot](https://dl.dropboxusercontent.com/u/14484585/framer/framer_responsive_iphone/framer_responsive_iphone.png)
+
 ## Download
 
 - [Download] (https://github.com/waychang/framer_responsive_iphone.framer/archive/master.zip) (framer_responsive_iphone)
@@ -29,3 +31,7 @@ Set "1" will see video in post index=1 (Default is 0.)
 videoEnable = 0
 ```
 Preview http://share.framerjs.com/95pz52cxk5bl/
+
+( Click tp play video )
+
+![Folder Screenshot](https://dl.dropboxusercontent.com/u/14484585/framer/framer_responsive_iphone/framer_responsive_iphone_video.png)

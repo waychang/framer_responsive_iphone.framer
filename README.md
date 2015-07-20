@@ -17,18 +17,15 @@ http://share.framerjs.com/6mya7k3rqr7w/
 
 ## Text Range
 ###### To see text range in posts
-Set postTextAreaEnable = 1 -> to see text range.
-Default is 0.
+Set postTextAreaEnable = 1 -> to see text range.  (Default is 0.)
 ```javascript
 postTextAreaEnable = 0
 ```
 
 ## Video
 ###### To see video in first post
-Set "1" will see video in post index=1
-
-Default is 0.
+Set "1" will see video in post index=1 (Default is 0.)
 ```javascript
 videoEnable = 0
 ```
-
+Preview http://share.framerjs.com/95pz52cxk5bl/
